@@ -2,7 +2,12 @@
 
 A visually interactive iPhone 17 clone built with React.js, Tailwind CSS, GSAP, and Three.js.  
 This project showcases smooth animations, 3D model integration, and a responsive design that mimics the official iPhone website experience.
+
 ---
+
+## 🚀 Live Demo
+
+[View Live Demo](https://i-phone-clone-ivory.vercel.app)
 
 ## 🛠 Tech Stack
 
@@ -12,3 +17,5 @@ This project showcases smooth animations, 3D model integration, and a responsive
 - **3D Models:** Three.js
 - **Build Tool:** Vite
 - **Version Control:** Git & GitHub
+
+
